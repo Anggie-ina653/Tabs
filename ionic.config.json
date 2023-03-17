@@ -1,0 +1,7 @@
+{
+  "name": "tabsina",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
